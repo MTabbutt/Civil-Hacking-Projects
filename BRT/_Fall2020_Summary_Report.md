@@ -34,3 +34,22 @@ Wanted to look at correlation between average speed the bus goes, average riders
 
 ### Ridership vs speed (no 80):
 ![Ridership vs Speed](Correlation__Ridership_Speed_no80.png)
+
+
+
+
+## Four Routes I Suggest We Rebalance:
+
+These are the four routes with the lowest riders but the shortest stop spacing. Exclding special routes: 80, 81, 82, 36
+
+### Route 27:
+![Route_characterstics_27](Route_characterstics_27.png)
+
+### Route 32:
+![Route_characterstics_32](Route_characterstics_32.png)
+
+### Route 44:
+![Route_characterstics_44](Route_characterstics_44.png)
+
+### Route 51:
+![Route_characterstics_51](Route_characterstics_51.png)
