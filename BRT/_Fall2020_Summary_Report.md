@@ -6,7 +6,10 @@ Author: Megan Tabbutt
  Listed below are some of the interesting plots and finds from work during the 2020 semester with CaSP and more groups. 
  
  
+
 ## Route Spacing - Route Balancing Considerations
+
+### Data is based on weekday regular routes (not weekend, not holiday)
  
 ## Initial tinkering with spacing: 
 
@@ -40,7 +43,18 @@ Wanted to look at correlation between average speed the bus goes, average riders
 
 ## Four Routes I Suggest We Rebalance:
 
-These are the four routes with the lowest riders but the shortest stop spacing. Exclding special routes: 80, 81, 82, 36
+These are the four routes with the lowest riders but the shortest stop spacing. Exclding special routes: 80, 81, 82, 36. 
+Data explanation: 
+
+Average spacing for a specific route: Take all possible weekday trips and for each trip find the stop spacing, get an average for each trip, average those together for a route specific average spacing. 
+Average spacing across all routes: take the above average for each route and average it together. 
+
+Percent of daily riders for a specific route: Take all riders of the route at all stops and divide by the total riders across all routes (for weekday only). 
+Percent of daily riders across all routes: Average the above percentages together for all routes.
+
+Average speed for a specific route: For ever trip possible for a specific route, take the total distance travelled dividided by the total trip time. Average these trips together for each route. 
+Average speed across all routes: Average the above averages together for all routes.
+
 
 ### Route 27:
 ![Route_characterstics_27](Route_characterstics_27.png)
