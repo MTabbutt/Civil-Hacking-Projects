@@ -61,11 +61,7 @@ These are the four routes with the lowest riders but the shortest stop spacing. 
 
 </br>
 
-_Average Ridership Overall: 1.36%_
-
-_Average Speed Overall: 16.19 MPH_
-
-_Average Stop Spacing Overall: .26 Miles_
+> _Average Ridership Overall: 1.36%      Average Speed Overall: 16.19 MPH      Average Stop Spacing Overall: .26 Miles_
 
 ### Route 27:
 ![Route_characterstics_27](Route_characterstics_27.png)
