@@ -27,10 +27,10 @@ Process: Look at all weekday routes possible: "92_WKDX' where X are different pe
 Wanted to look at correlation between average speed the bus goes, average ridership for that route and average stop spacing. No correlation seems to exist. 
 
 ### Ridership vs Spacing (no 80):
-![Ridership vs Spacing](Correlation between Ridership and Stop-Spacing (Route 80 excluded).png)
+![Ridership vs Spacing](Correlation_Ridership_Stop-Spacing_no80.png)
 
 ### Ridership vs Spacing - Zoom:
-![Ridership vs Spacing zoom](Correlation between Ridership and Stop-Spacing (Route 80 excluded) - zoom.png)
+![Ridership vs Spacing zoom](Lowest_ridership_closest_stop_spacing.png)
 
 ### Ridership vs speed (no 80):
-![Ridership vs Speed](Correlation between Ridership and Speed (Route 80 excluded).png)
+![Ridership vs Speed](Correlation__Ridership_Speed_no80.png)
