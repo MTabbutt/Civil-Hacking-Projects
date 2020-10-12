@@ -1,0 +1,441 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 OCT 2020 13:03
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Plots together.tex"
+(./Plots together.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen145
+\captionmargin@=\dimen146
+\captionwidth=\dimen147
+\caption@tempdima=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count178
+\c@continuedfloat=\count179
+)
+\c@KVtest=\count180
+\sf@farskip=\skip49
+\sf@captopadj=\dimen152
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count181
+\c@subfigure@save=\count182
+\c@lofdepth=\count183
+\c@subtable=\count184
+\c@subtable@save=\count185
+\c@lotdepth=\count186
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box45
+)
+
+LaTeX Warning: Unused global option(s):
+    [b4paper].
+
+(./Plots together.aux)
+\openout1 = `"Plots together.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: b4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 639.0489pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 932.11229pt, 36.135pt)
+* \paperwidth=711.3189pt
+* \paperheight=1004.38228pt
+* \textwidth=639.0489pt
+* \textheight=932.11229pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen153
+\scratchbox=\box46
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen154
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+<Route_2.png, id=1, 1137.24875pt x 634.37pt>
+File: Route_2.png Graphic file (type png)
+<use Route_2.png>
+Package pdftex.def Info: Route_2.png  used on input line 12.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_4.png, id=3, 1091.07625pt x 652.4375pt>
+File: Route_4.png Graphic file (type png)
+<use Route_4.png>
+Package pdftex.def Info: Route_4.png  used on input line 12.
+(pdftex.def)             Requested size: 125.19212pt x 74.8545pt.
+<Route_5.png, id=4, 1137.24875pt x 634.37pt>
+File: Route_5.png Graphic file (type png)
+<use Route_5.png>
+Package pdftex.def Info: Route_5.png  used on input line 12.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_6.png, id=5, 1137.24875pt x 634.37pt>
+File: Route_6.png Graphic file (type png)
+<use Route_6.png>
+Package pdftex.def Info: Route_6.png  used on input line 12.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_7.png, id=6, 1137.24875pt x 639.38875pt>
+File: Route_7.png Graphic file (type png)
+<use Route_7.png>
+Package pdftex.def Info: Route_7.png  used on input line 14.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_8.png, id=7, 1137.24875pt x 634.37pt>
+File: Route_8.png Graphic file (type png)
+<use Route_8.png>
+Package pdftex.def Info: Route_8.png  used on input line 14.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_10.png, id=8, 1137.24875pt x 634.37pt>
+File: Route_10.png Graphic file (type png)
+<use Route_10.png>
+Package pdftex.def Info: Route_10.png  used on input line 14.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_11.png, id=9, 1137.24875pt x 639.38875pt>
+File: Route_11.png Graphic file (type png)
+<use Route_11.png>
+Package pdftex.def Info: Route_11.png  used on input line 14.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_12.png, id=10, 1137.24875pt x 634.37pt>
+File: Route_12.png Graphic file (type png)
+<use Route_12.png>
+Package pdftex.def Info: Route_12.png  used on input line 16.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_13.png, id=11, 1127.21124pt x 652.4375pt>
+File: Route_13.png Graphic file (type png)
+<use Route_13.png>
+Package pdftex.def Info: Route_13.png  used on input line 16.
+(pdftex.def)             Requested size: 125.19212pt x 72.45526pt.
+<Route_15.png, id=12, 1137.24875pt x 634.37pt>
+File: Route_15.png Graphic file (type png)
+<use Route_15.png>
+Package pdftex.def Info: Route_15.png  used on input line 16.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_16.png, id=13, 1137.24875pt x 634.37pt>
+File: Route_16.png Graphic file (type png)
+<use Route_16.png>
+Package pdftex.def Info: Route_16.png  used on input line 16.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_17.png, id=14, 1137.24875pt x 634.37pt>
+File: Route_17.png Graphic file (type png)
+<use Route_17.png>
+Package pdftex.def Info: Route_17.png  used on input line 18.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_18.png, id=15, 1137.24875pt x 634.37pt>
+File: Route_18.png Graphic file (type png)
+<use Route_18.png>
+Package pdftex.def Info: Route_18.png  used on input line 18.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_20.png, id=16, 1137.24875pt x 634.37pt>
+File: Route_20.png Graphic file (type png)
+<use Route_20.png>
+Package pdftex.def Info: Route_20.png  used on input line 18.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_21.png, id=17, 1130.2225pt x 652.4375pt>
+File: Route_21.png Graphic file (type png)
+<use Route_21.png>
+Package pdftex.def Info: Route_21.png  used on input line 18.
+(pdftex.def)             Requested size: 125.19212pt x 72.26611pt.
+<Route_22.png, id=18, 1137.24875pt x 634.37pt>
+File: Route_22.png Graphic file (type png)
+<use Route_22.png>
+Package pdftex.def Info: Route_22.png  used on input line 20.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_23.png, id=19, 1137.24875pt x 634.37pt>
+File: Route_23.png Graphic file (type png)
+<use Route_23.png>
+Package pdftex.def Info: Route_23.png  used on input line 20.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_26.png, id=20, 1137.24875pt x 647.41875pt>
+File: Route_26.png Graphic file (type png)
+<use Route_26.png>
+Package pdftex.def Info: Route_26.png  used on input line 20.
+(pdftex.def)             Requested size: 125.19212pt x 71.26567pt.
+<Route_27.png, id=21, 1137.24875pt x 639.38875pt>
+File: Route_27.png Graphic file (type png)
+<use Route_27.png>
+Package pdftex.def Info: Route_27.png  used on input line 20.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_30.png, id=22, 1137.24875pt x 641.39626pt>
+File: Route_30.png Graphic file (type png)
+<use Route_30.png>
+Package pdftex.def Info: Route_30.png  used on input line 22.
+(pdftex.def)             Requested size: 125.19212pt x 70.60274pt.
+<Route_31.png, id=23, 1051.93pt x 652.4375pt>
+File: Route_31.png Graphic file (type png)
+<use Route_31.png>
+Package pdftex.def Info: Route_31.png  used on input line 22.
+(pdftex.def)             Requested size: 125.19212pt x 77.64201pt.
+<Route_32.png, id=24, 1137.24875pt x 634.37pt>
+File: Route_32.png Graphic file (type png)
+<use Route_32.png>
+Package pdftex.def Info: Route_32.png  used on input line 22.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_33.png, id=25, 1137.24875pt x 634.37pt>
+File: Route_33.png Graphic file (type png)
+<use Route_33.png>
+Package pdftex.def Info: Route_33.png  used on input line 22.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_36.png, id=26, 1137.24875pt x 639.38875pt>
+File: Route_36.png Graphic file (type png)
+<use Route_36.png>
+Package pdftex.def Info: Route_36.png  used on input line 24.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_39.png, id=27, 1096.095pt x 652.4375pt>
+File: Route_39.png Graphic file (type png)
+<use Route_39.png>
+Package pdftex.def Info: Route_39.png  used on input line 24.
+(pdftex.def)             Requested size: 125.19212pt x 74.51602pt.
+<Route_40.png, id=28, 1137.24875pt x 634.37pt>
+File: Route_40.png Graphic file (type png)
+<use Route_40.png>
+Package pdftex.def Info: Route_40.png  used on input line 24.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_44.png, id=29, 1137.24875pt x 639.38875pt>
+File: Route_44.png Graphic file (type png)
+<use Route_44.png>
+Package pdftex.def Info: Route_44.png  used on input line 24.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_48.png, id=30, 1137.24875pt x 636.3775pt>
+File: Route_48.png Graphic file (type png)
+<use Route_48.png>
+Package pdftex.def Info: Route_48.png  used on input line 26.
+(pdftex.def)             Requested size: 125.19212pt x 70.0503pt.
+<Route_49.png, id=31, 1137.24875pt x 634.37pt>
+File: Route_49.png Graphic file (type png)
+<use Route_49.png>
+Package pdftex.def Info: Route_49.png  used on input line 26.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_50.png, id=32, 1137.24875pt x 634.37pt>
+File: Route_50.png Graphic file (type png)
+<use Route_50.png>
+Package pdftex.def Info: Route_50.png  used on input line 26.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_51.png, id=33, 1137.24875pt x 635.37375pt>
+File: Route_51.png Graphic file (type png)
+<use Route_51.png>
+Package pdftex.def Info: Route_51.png  used on input line 26.
+(pdftex.def)             Requested size: 125.19212pt x 69.93979pt.
+<Route_52.png, id=34, 1004.75375pt x 652.4375pt>
+File: Route_52.png Graphic file (type png)
+<use Route_52.png>
+Package pdftex.def Info: Route_52.png  used on input line 28.
+(pdftex.def)             Requested size: 125.19212pt x 81.28569pt.
+<Route_55.png, id=35, 1137.24875pt x 634.37pt>
+File: Route_55.png Graphic file (type png)
+<use Route_55.png>
+Package pdftex.def Info: Route_55.png  used on input line 28.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_67.png, id=36, 1137.24875pt x 634.37pt>
+File: Route_67.png Graphic file (type png)
+<use Route_67.png>
+Package pdftex.def Info: Route_67.png  used on input line 28.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_70.png, id=37, 1137.24875pt x 634.37pt>
+File: Route_70.png Graphic file (type png)
+<use Route_70.png>
+Package pdftex.def Info: Route_70.png  used on input line 28.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_72.png, id=38, 1137.24875pt x 634.37pt>
+File: Route_72.png Graphic file (type png)
+<use Route_72.png>
+Package pdftex.def Info: Route_72.png  used on input line 30.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_73.png, id=39, 1137.24875pt x 634.37pt>
+File: Route_73.png Graphic file (type png)
+<use Route_73.png>
+Package pdftex.def Info: Route_73.png  used on input line 30.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_75.png, id=40, 1137.24875pt x 634.37pt>
+File: Route_75.png Graphic file (type png)
+<use Route_75.png>
+Package pdftex.def Info: Route_75.png  used on input line 30.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_80.png, id=41, 1137.24875pt x 634.37pt>
+File: Route_80.png Graphic file (type png)
+<use Route_80.png>
+Package pdftex.def Info: Route_80.png  used on input line 30.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+<Route_81.png, id=42, 1137.24875pt x 639.38875pt>
+File: Route_81.png Graphic file (type png)
+<use Route_81.png>
+Package pdftex.def Info: Route_81.png  used on input line 32.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_82.png, id=43, 1137.24875pt x 639.38875pt>
+File: Route_82.png Graphic file (type png)
+<use Route_82.png>
+Package pdftex.def Info: Route_82.png  used on input line 32.
+(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
+<Route_84.png, id=44, 1137.24875pt x 634.37pt>
+File: Route_84.png Graphic file (type png)
+<use Route_84.png>
+Package pdftex.def Info: Route_84.png  used on input line 32.
+(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+
+[1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Rou
+te_2.png> <./Route_4.png> <./Route_5.png> <./Route_6.png> <./Route_7.png> <./Ro
+ute_8.png> <./Route_10.png> <./Route_11.png> <./Route_12.png> <./Route_13.png> 
+<./Route_15.png> <./Route_16.png> <./Route_17.png> <./Route_18.png> <./Route_20
+.png> <./Route_21.png> <./Route_22.png> <./Route_23.png> <./Route_26.png> <./Ro
+ute_27.png> <./Route_30.png> <./Route_31.png> <./Route_32.png> <./Route_33.png>
+ <./Route_36.png> <./Route_39.png> <./Route_40.png> <./Route_44.png> <./Route_4
+8.png> <./Route_49.png> <./Route_50.png> <./Route_51.png> <./Route_52.png> <./R
+oute_55.png> <./Route_67.png> <./Route_70.png> <./Route_72.png> <./Route_73.png
+> <./Route_75.png> <./Route_80.png> <./Route_81.png> <./Route_82.png> <./Route_
+84.png>] (./Plots together.aux) ) 
+Here is how much of TeX's memory you used:
+ 3145 strings out of 480608
+ 50432 string characters out of 5903631
+ 293267 words of memory out of 5000000
+ 19021 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,11n,48p,230b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb>
+Output written on "Plots together.pdf" (1 page, 3608191 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+
