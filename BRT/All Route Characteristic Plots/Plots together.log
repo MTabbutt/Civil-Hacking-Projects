@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 OCT 2020 13:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  26 OCT 2020 11:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -112,7 +112,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 )
 
 LaTeX Warning: Unused global option(s):
-    [b4paper].
+    [letter].
 
 (./Plots together.aux)
 \openout1 = `"Plots together.aux"'.
@@ -136,16 +136,16 @@ LaTeX Font Info:    ... okay on input line 6.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: b4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 639.0489pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 932.11229pt, 36.135pt)
-* \paperwidth=711.3189pt
-* \paperheight=1004.38228pt
-* \textwidth=639.0489pt
-* \textheight=932.11229pt
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
 * \oddsidemargin=-36.135pt
 * \evensidemargin=-36.135pt
 * \topmargin=-73.135pt
@@ -195,247 +195,247 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
-<Route_2.png, id=1, 1137.24875pt x 634.37pt>
+<Route_2.png, id=1, 1977.3875pt x 604.2575pt>
 File: Route_2.png Graphic file (type png)
 <use Route_2.png>
 Package pdftex.def Info: Route_2.png  used on input line 12.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_4.png, id=3, 1091.07625pt x 652.4375pt>
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_4.png, id=3, 1871.99374pt x 604.2575pt>
 File: Route_4.png Graphic file (type png)
 <use Route_4.png>
-Package pdftex.def Info: Route_4.png  used on input line 12.
-(pdftex.def)             Requested size: 125.19212pt x 74.8545pt.
-<Route_5.png, id=4, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_4.png  used on input line 13.
+(pdftex.def)             Requested size: 426.79134pt x 137.75923pt.
+<Route_5.png, id=4, 1941.2525pt x 604.2575pt>
 File: Route_5.png Graphic file (type png)
 <use Route_5.png>
-Package pdftex.def Info: Route_5.png  used on input line 12.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_6.png, id=5, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_5.png  used on input line 14.
+(pdftex.def)             Requested size: 426.79134pt x 132.84485pt.
+<Route_6.png, id=5, 1977.3875pt x 604.2575pt>
 File: Route_6.png Graphic file (type png)
 <use Route_6.png>
-Package pdftex.def Info: Route_6.png  used on input line 12.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_7.png, id=6, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_6.png  used on input line 15.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_7.png, id=6, 1977.3875pt x 604.2575pt>
 File: Route_7.png Graphic file (type png)
 <use Route_7.png>
-Package pdftex.def Info: Route_7.png  used on input line 14.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_8.png, id=7, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_7.png  used on input line 16.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_8.png, id=7, 1977.3875pt x 604.2575pt>
 File: Route_8.png Graphic file (type png)
 <use Route_8.png>
-Package pdftex.def Info: Route_8.png  used on input line 14.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_10.png, id=8, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_8.png  used on input line 26.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_10.png, id=8, 1977.3875pt x 604.2575pt>
 File: Route_10.png Graphic file (type png)
 <use Route_10.png>
-Package pdftex.def Info: Route_10.png  used on input line 14.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_11.png, id=9, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_10.png  used on input line 27.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_11.png, id=9, 1977.3875pt x 604.2575pt>
 File: Route_11.png Graphic file (type png)
 <use Route_11.png>
-Package pdftex.def Info: Route_11.png  used on input line 14.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_12.png, id=10, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_11.png  used on input line 28.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_12.png, id=10, 1977.3875pt x 604.2575pt>
 File: Route_12.png Graphic file (type png)
 <use Route_12.png>
-Package pdftex.def Info: Route_12.png  used on input line 16.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_13.png, id=11, 1127.21124pt x 652.4375pt>
+Package pdftex.def Info: Route_12.png  used on input line 29.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_13.png, id=11, 1901.1025pt x 604.2575pt>
 File: Route_13.png Graphic file (type png)
 <use Route_13.png>
-Package pdftex.def Info: Route_13.png  used on input line 16.
-(pdftex.def)             Requested size: 125.19212pt x 72.45526pt.
-<Route_15.png, id=12, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_13.png  used on input line 30.
+(pdftex.def)             Requested size: 426.79134pt x 135.6478pt.
+<Route_15.png, id=12, 1977.3875pt x 604.2575pt>
 File: Route_15.png Graphic file (type png)
 <use Route_15.png>
-Package pdftex.def Info: Route_15.png  used on input line 16.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_16.png, id=13, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_15.png  used on input line 41.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_16.png, id=13, 1926.19624pt x 604.2575pt>
 File: Route_16.png Graphic file (type png)
 <use Route_16.png>
-Package pdftex.def Info: Route_16.png  used on input line 16.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_17.png, id=14, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_16.png  used on input line 42.
+(pdftex.def)             Requested size: 426.79134pt x 133.88673pt.
+<Route_17.png, id=14, 1977.3875pt x 604.2575pt>
 File: Route_17.png Graphic file (type png)
 <use Route_17.png>
-Package pdftex.def Info: Route_17.png  used on input line 18.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_18.png, id=15, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_17.png  used on input line 43.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_18.png, id=15, 1977.3875pt x 604.2575pt>
 File: Route_18.png Graphic file (type png)
 <use Route_18.png>
-Package pdftex.def Info: Route_18.png  used on input line 18.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_20.png, id=16, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_18.png  used on input line 44.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_20.png, id=16, 1977.3875pt x 604.2575pt>
 File: Route_20.png Graphic file (type png)
 <use Route_20.png>
-Package pdftex.def Info: Route_20.png  used on input line 18.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_21.png, id=17, 1130.2225pt x 652.4375pt>
+Package pdftex.def Info: Route_20.png  used on input line 45.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_21.png, id=17, 1904.11375pt x 604.2575pt>
 File: Route_21.png Graphic file (type png)
 <use Route_21.png>
-Package pdftex.def Info: Route_21.png  used on input line 18.
-(pdftex.def)             Requested size: 125.19212pt x 72.26611pt.
-<Route_22.png, id=18, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_21.png  used on input line 55.
+(pdftex.def)             Requested size: 426.79134pt x 135.43573pt.
+<Route_22.png, id=18, 1965.3425pt x 604.2575pt>
 File: Route_22.png Graphic file (type png)
 <use Route_22.png>
-Package pdftex.def Info: Route_22.png  used on input line 20.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_23.png, id=19, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_22.png  used on input line 56.
+(pdftex.def)             Requested size: 426.79134pt x 131.21288pt.
+<Route_23.png, id=19, 1957.3125pt x 604.2575pt>
 File: Route_23.png Graphic file (type png)
 <use Route_23.png>
-Package pdftex.def Info: Route_23.png  used on input line 20.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_26.png, id=20, 1137.24875pt x 647.41875pt>
+Package pdftex.def Info: Route_23.png  used on input line 57.
+(pdftex.def)             Requested size: 426.79134pt x 131.75687pt.
+<Route_26.png, id=20, 1913.1475pt x 604.2575pt>
 File: Route_26.png Graphic file (type png)
 <use Route_26.png>
-Package pdftex.def Info: Route_26.png  used on input line 20.
-(pdftex.def)             Requested size: 125.19212pt x 71.26567pt.
-<Route_27.png, id=21, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_26.png  used on input line 58.
+(pdftex.def)             Requested size: 426.79134pt x 134.79955pt.
+<Route_27.png, id=21, 1961.3275pt x 604.2575pt>
 File: Route_27.png Graphic file (type png)
 <use Route_27.png>
-Package pdftex.def Info: Route_27.png  used on input line 20.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_30.png, id=22, 1137.24875pt x 641.39626pt>
+Package pdftex.def Info: Route_27.png  used on input line 59.
+(pdftex.def)             Requested size: 426.79134pt x 131.48026pt.
+<Route_30.png, id=22, 1917.1625pt x 604.2575pt>
 File: Route_30.png Graphic file (type png)
 <use Route_30.png>
-Package pdftex.def Info: Route_30.png  used on input line 22.
-(pdftex.def)             Requested size: 125.19212pt x 70.60274pt.
-<Route_31.png, id=23, 1051.93pt x 652.4375pt>
+Package pdftex.def Info: Route_30.png  used on input line 69.
+(pdftex.def)             Requested size: 426.79134pt x 134.51372pt.
+<Route_31.png, id=23, 1839.87375pt x 604.2575pt>
 File: Route_31.png Graphic file (type png)
 <use Route_31.png>
-Package pdftex.def Info: Route_31.png  used on input line 22.
-(pdftex.def)             Requested size: 125.19212pt x 77.64201pt.
-<Route_32.png, id=24, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_31.png  used on input line 70.
+(pdftex.def)             Requested size: 426.79134pt x 140.16571pt.
+<Route_32.png, id=24, 1977.3875pt x 604.2575pt>
 File: Route_32.png Graphic file (type png)
 <use Route_32.png>
-Package pdftex.def Info: Route_32.png  used on input line 22.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_33.png, id=25, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_32.png  used on input line 71.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_33.png, id=25, 1977.3875pt x 604.2575pt>
 File: Route_33.png Graphic file (type png)
 <use Route_33.png>
-Package pdftex.def Info: Route_33.png  used on input line 22.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_36.png, id=26, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_33.png  used on input line 72.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_36.png, id=26, 1977.3875pt x 604.2575pt>
 File: Route_36.png Graphic file (type png)
 <use Route_36.png>
-Package pdftex.def Info: Route_36.png  used on input line 24.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_39.png, id=27, 1096.095pt x 652.4375pt>
+Package pdftex.def Info: Route_36.png  used on input line 73.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_39.png, id=27, 1876.00874pt x 604.2575pt>
 File: Route_39.png Graphic file (type png)
 <use Route_39.png>
-Package pdftex.def Info: Route_39.png  used on input line 24.
-(pdftex.def)             Requested size: 125.19212pt x 74.51602pt.
-<Route_40.png, id=28, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_39.png  used on input line 83.
+(pdftex.def)             Requested size: 426.79134pt x 137.46419pt.
+<Route_40.png, id=28, 1977.3875pt x 604.2575pt>
 File: Route_40.png Graphic file (type png)
 <use Route_40.png>
-Package pdftex.def Info: Route_40.png  used on input line 24.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_44.png, id=29, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_40.png  used on input line 84.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_44.png, id=29, 1922.18124pt x 604.2575pt>
 File: Route_44.png Graphic file (type png)
 <use Route_44.png>
-Package pdftex.def Info: Route_44.png  used on input line 24.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_48.png, id=30, 1137.24875pt x 636.3775pt>
+Package pdftex.def Info: Route_44.png  used on input line 85.
+(pdftex.def)             Requested size: 426.79134pt x 134.16335pt.
+<Route_48.png, id=30, 1922.18124pt x 604.2575pt>
 File: Route_48.png Graphic file (type png)
 <use Route_48.png>
-Package pdftex.def Info: Route_48.png  used on input line 26.
-(pdftex.def)             Requested size: 125.19212pt x 70.0503pt.
-<Route_49.png, id=31, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_48.png  used on input line 86.
+(pdftex.def)             Requested size: 426.79134pt x 134.16335pt.
+<Route_49.png, id=31, 1941.2525pt x 604.2575pt>
 File: Route_49.png Graphic file (type png)
 <use Route_49.png>
-Package pdftex.def Info: Route_49.png  used on input line 26.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_50.png, id=32, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_49.png  used on input line 87.
+(pdftex.def)             Requested size: 426.79134pt x 132.84485pt.
+<Route_50.png, id=32, 1977.3875pt x 604.2575pt>
 File: Route_50.png Graphic file (type png)
 <use Route_50.png>
-Package pdftex.def Info: Route_50.png  used on input line 26.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_51.png, id=33, 1137.24875pt x 635.37375pt>
+Package pdftex.def Info: Route_50.png  used on input line 97.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_51.png, id=33, 1922.18124pt x 604.2575pt>
 File: Route_51.png Graphic file (type png)
 <use Route_51.png>
-Package pdftex.def Info: Route_51.png  used on input line 26.
-(pdftex.def)             Requested size: 125.19212pt x 69.93979pt.
-<Route_52.png, id=34, 1004.75375pt x 652.4375pt>
+Package pdftex.def Info: Route_51.png  used on input line 98.
+(pdftex.def)             Requested size: 426.79134pt x 134.16335pt.
+<Route_52.png, id=34, 1796.7125pt x 604.2575pt>
 File: Route_52.png Graphic file (type png)
 <use Route_52.png>
-Package pdftex.def Info: Route_52.png  used on input line 28.
-(pdftex.def)             Requested size: 125.19212pt x 81.28569pt.
-<Route_55.png, id=35, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_52.png  used on input line 99.
+(pdftex.def)             Requested size: 426.79134pt x 143.53108pt.
+<Route_55.png, id=35, 1977.3875pt x 604.2575pt>
 File: Route_55.png Graphic file (type png)
 <use Route_55.png>
-Package pdftex.def Info: Route_55.png  used on input line 28.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_67.png, id=36, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_55.png  used on input line 100.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_67.png, id=36, 1977.3875pt x 604.2575pt>
 File: Route_67.png Graphic file (type png)
 <use Route_67.png>
-Package pdftex.def Info: Route_67.png  used on input line 28.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_70.png, id=37, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_67.png  used on input line 101.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_70.png, id=37, 1977.3875pt x 604.2575pt>
 File: Route_70.png Graphic file (type png)
 <use Route_70.png>
-Package pdftex.def Info: Route_70.png  used on input line 28.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_72.png, id=38, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_70.png  used on input line 111.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_72.png, id=38, 1977.3875pt x 604.2575pt>
 File: Route_72.png Graphic file (type png)
 <use Route_72.png>
-Package pdftex.def Info: Route_72.png  used on input line 30.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_73.png, id=39, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_72.png  used on input line 112.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_73.png, id=39, 1977.3875pt x 604.2575pt>
 File: Route_73.png Graphic file (type png)
 <use Route_73.png>
-Package pdftex.def Info: Route_73.png  used on input line 30.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_75.png, id=40, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_73.png  used on input line 113.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_75.png, id=40, 1980.39874pt x 604.2575pt>
 File: Route_75.png Graphic file (type png)
 <use Route_75.png>
-Package pdftex.def Info: Route_75.png  used on input line 30.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_80.png, id=41, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_75.png  used on input line 114.
+(pdftex.def)             Requested size: 426.79134pt x 130.21709pt.
+<Route_80.png, id=41, 1977.3875pt x 604.2575pt>
 File: Route_80.png Graphic file (type png)
 <use Route_80.png>
-Package pdftex.def Info: Route_80.png  used on input line 30.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
-<Route_81.png, id=42, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_80.png  used on input line 115.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_81.png, id=42, 1977.3875pt x 604.2575pt>
 File: Route_81.png Graphic file (type png)
 <use Route_81.png>
-Package pdftex.def Info: Route_81.png  used on input line 32.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_82.png, id=43, 1137.24875pt x 639.38875pt>
+Package pdftex.def Info: Route_81.png  used on input line 125.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_82.png, id=43, 1977.3875pt x 604.2575pt>
 File: Route_82.png Graphic file (type png)
 <use Route_82.png>
-Package pdftex.def Info: Route_82.png  used on input line 32.
-(pdftex.def)             Requested size: 125.19212pt x 70.38176pt.
-<Route_84.png, id=44, 1137.24875pt x 634.37pt>
+Package pdftex.def Info: Route_82.png  used on input line 126.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
+<Route_84.png, id=44, 1977.3875pt x 604.2575pt>
 File: Route_84.png Graphic file (type png)
 <use Route_84.png>
-Package pdftex.def Info: Route_84.png  used on input line 32.
-(pdftex.def)             Requested size: 125.19212pt x 69.8293pt.
+Package pdftex.def Info: Route_84.png  used on input line 127.
+(pdftex.def)             Requested size: 426.79134pt x 130.41994pt.
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Rou
-te_2.png> <./Route_4.png> <./Route_5.png> <./Route_6.png> <./Route_7.png> <./Ro
-ute_8.png> <./Route_10.png> <./Route_11.png> <./Route_12.png> <./Route_13.png> 
-<./Route_15.png> <./Route_16.png> <./Route_17.png> <./Route_18.png> <./Route_20
-.png> <./Route_21.png> <./Route_22.png> <./Route_23.png> <./Route_26.png> <./Ro
-ute_27.png> <./Route_30.png> <./Route_31.png> <./Route_32.png> <./Route_33.png>
- <./Route_36.png> <./Route_39.png> <./Route_40.png> <./Route_44.png> <./Route_4
-8.png> <./Route_49.png> <./Route_50.png> <./Route_51.png> <./Route_52.png> <./R
-oute_55.png> <./Route_67.png> <./Route_70.png> <./Route_72.png> <./Route_73.png
-> <./Route_75.png> <./Route_80.png> <./Route_81.png> <./Route_82.png> <./Route_
-84.png>] (./Plots together.aux) ) 
+te_2.png> <./Route_4.png> <./Route_5.png> <./Route_6.png> <./Route_7.png>]
+[2 <./Route_8.png> <./Route_10.png> <./Route_11.png> <./Route_12.png> <./Route_
+13.png>] [3 <./Route_15.png> <./Route_16.png> <./Route_17.png> <./Route_18.png>
+ <./Route_20.png>] [4 <./Route_21.png> <./Route_22.png> <./Route_23.png> <./Rou
+te_26.png> <./Route_27.png>] [5 <./Route_30.png> <./Route_31.png> <./Route_32.p
+ng> <./Route_33.png> <./Route_36.png>] [6 <./Route_39.png> <./Route_40.png> <./
+Route_44.png> <./Route_48.png> <./Route_49.png>] [7 <./Route_50.png> <./Route_5
+1.png> <./Route_52.png> <./Route_55.png> <./Route_67.png>] [8 <./Route_70.png> 
+<./Route_72.png> <./Route_73.png> <./Route_75.png> <./Route_80.png>] [9 <./Rout
+e_81.png> <./Route_82.png> <./Route_84.png>] (./Plots together.aux) ) 
 Here is how much of TeX's memory you used:
  3145 strings out of 480608
- 50432 string characters out of 5903631
- 293267 words of memory out of 5000000
+ 50431 string characters out of 5903631
+ 295315 words of memory out of 5000000
  19021 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,48p,230b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb>
-Output written on "Plots together.pdf" (1 page, 3608191 bytes).
+ 50i,11n,48p,212b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "Plots together.pdf" (9 pages, 4700699 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 8 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
