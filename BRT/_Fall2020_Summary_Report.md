@@ -9,6 +9,7 @@ Author: Megan Tabbutt
 
 Figure 1: A plot showing all of the bus routes in the City of Madison. A greater opaqueness dipicts overlapping routes, and greater service for that area. 
 
+</br>
 
 ## 2. Route Stop Spacing Summary:
 
@@ -17,12 +18,17 @@ Figure 1: A plot showing all of the bus routes in the City of Madison. A greater
 
 Figure 2: Distribution of stop spacing by route. Three quartiles are shown: top 25%, middle 50%, bottom 25%. The overall system average is also show. Routes with a very high top 25% stop spacing most likely have a limited stop zone on the route. These limited stop zones increase route speed by having a section that does not stop at all, and typically cover larger distances across the city. 
 
+</br>
+
 ## 3. Route Frequency:
 
 ![FrequencyHeatMap](PaperFigures/FrequencyHeatMap.png)
 
 Figure 3: A Summary of the frequency of service for bus routes during the weekday. 
 
+</br>
+</br>
+</br>
 ***
 
 ## Old Work: 
