@@ -24,7 +24,7 @@ Figure 2: Distribution of stop spacing by route. Three quartiles are shown: top 
 
 ![FrequencyHeatMap](PaperFigures/FrequencyHeatMap.png)
 
-Figure 3: A Summary of the frequency of service for bus routes during the weekday. 
+Figure 3: A Summary of the frequency of service for bus routes during the weekday. Since the specific time a bus comes depends on the stop, the middle stop of each route is chosen for this figure. 
 
 </br>
 
