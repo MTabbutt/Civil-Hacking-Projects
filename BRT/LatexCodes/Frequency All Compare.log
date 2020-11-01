@@ -1,0 +1,381 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  1 NOV 2020 12:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Frequency All Compare.tex"
+(./Frequency All Compare.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen145
+\captionmargin@=\dimen146
+\captionwidth=\dimen147
+\caption@tempdima=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count178
+\c@continuedfloat=\count179
+)
+\c@KVtest=\count180
+\sf@farskip=\skip49
+\sf@captopadj=\dimen152
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count181
+\c@subfigure@save=\count182
+\c@lofdepth=\count183
+\c@subtable=\count184
+\c@subtable@save=\count185
+\c@lotdepth=\count186
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box45
+)
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(./Frequency All Compare.aux)
+\openout1 = `"Frequency All Compare.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen153
+\scratchbox=\box46
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen154
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+<CarOwnershipVSfrequency1am.png, id=1, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency1am.png Graphic file (type png)
+<use CarOwnershipVSfrequency1am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency1am.png  used on input line 12.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency2am.png, id=3, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency2am.png Graphic file (type png)
+<use CarOwnershipVSfrequency2am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency2am.png  used on input line 12.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency3am.png, id=4, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency3am.png Graphic file (type png)
+<use CarOwnershipVSfrequency3am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency3am.png  used on input line 12.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency4am.png, id=5, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency4am.png Graphic file (type png)
+<use CarOwnershipVSfrequency4am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency4am.png  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency5am.png, id=6, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency5am.png Graphic file (type png)
+<use CarOwnershipVSfrequency5am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency5am.png  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency6am.png, id=7, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency6am.png Graphic file (type png)
+<use CarOwnershipVSfrequency6am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency6am.png  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency7am.png, id=8, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency7am.png Graphic file (type png)
+<use CarOwnershipVSfrequency7am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency7am.png  used on input line 16.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency8am.png, id=9, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency8am.png Graphic file (type png)
+<use CarOwnershipVSfrequency8am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency8am.png  used on input line 16.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency9am.png, id=10, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency9am.png Graphic file (type png)
+<use CarOwnershipVSfrequency9am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency9am.png  used on input line 16.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency10am.png, id=11, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency10am.png Graphic file (type png)
+<use CarOwnershipVSfrequency10am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency10am.png  used on input line 18
+.
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency11am.png, id=12, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency11am.png Graphic file (type png)
+<use CarOwnershipVSfrequency11am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency11am.png  used on input line 18
+.
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency12pm.png, id=13, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency12pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency12pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency12pm.png  used on input line 18
+.
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+
+Overfull \hbox (6.1246pt too wide) in paragraph at lines 10--21
+ [] 
+ []
+
+<CarOwnershipVSfrequency1pm.png, id=14, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency1pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency1pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency1pm.png  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency2pm.png, id=15, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency2pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency2pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency2pm.png  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency3pm.png, id=16, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency3pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency3pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency3pm.png  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency4pm.png, id=17, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency4pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency4pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency4pm.png  used on input line 30.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency5pm.png, id=18, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency5pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency5pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency5pm.png  used on input line 30.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency6pm.png, id=19, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency6pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency6pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency6pm.png  used on input line 30.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency7pm.png, id=20, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency7pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency7pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency7pm.png  used on input line 32.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency8pm.png, id=21, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency8pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency8pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency8pm.png  used on input line 32.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency9pm.png, id=22, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency9pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency9pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency9pm.png  used on input line 32.
+
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency10pm.png, id=23, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency10pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency10pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency10pm.png  used on input line 34
+.
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency11pm.png, id=24, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency11pm.png Graphic file (type png)
+<use CarOwnershipVSfrequency11pm.png>
+Package pdftex.def Info: CarOwnershipVSfrequency11pm.png  used on input line 34
+.
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+<CarOwnershipVSfrequency12am.png, id=25, 822.07124pt x 590.205pt>
+File: CarOwnershipVSfrequency12am.png Graphic file (type png)
+<use CarOwnershipVSfrequency12am.png>
+Package pdftex.def Info: CarOwnershipVSfrequency12am.png  used on input line 34
+.
+(pdftex.def)             Requested size: 170.71652pt x 122.55981pt.
+
+Overfull \hbox (6.1246pt too wide) in paragraph at lines 26--37
+ [] 
+ []
+
+[1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Car
+OwnershipVSfrequency1am.png> <./CarOwnershipVSfrequency2am.png> <./CarOwnership
+VSfrequency3am.png> <./CarOwnershipVSfrequency4am.png> <./CarOwnershipVSfrequen
+cy5am.png> <./CarOwnershipVSfrequency6am.png> <./CarOwnershipVSfrequency7am.png
+> <./CarOwnershipVSfrequency8am.png> <./CarOwnershipVSfrequency9am.png> <./CarO
+wnershipVSfrequency10am.png> <./CarOwnershipVSfrequency11am.png> <./CarOwnershi
+pVSfrequency12pm.png>] [2 <./CarOwnershipVSfrequency1pm.png> <./CarOwnershipVSf
+requency2pm.png> <./CarOwnershipVSfrequency3pm.png> <./CarOwnershipVSfrequency4
+pm.png> <./CarOwnershipVSfrequency5pm.png> <./CarOwnershipVSfrequency6pm.png> <
+./CarOwnershipVSfrequency7pm.png> <./CarOwnershipVSfrequency8pm.png> <./CarOwne
+rshipVSfrequency9pm.png> <./CarOwnershipVSfrequency10pm.png> <./CarOwnershipVSf
+requency11pm.png> <./CarOwnershipVSfrequency12am.png>]
+(./Frequency All Compare.aux) ) 
+Here is how much of TeX's memory you used:
+ 3031 strings out of 480608
+ 51436 string characters out of 5903631
+ 290336 words of memory out of 5000000
+ 18926 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,11n,48p,273b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb>
+Output written on "Frequency All Compare.pdf" (2 pages, 4789670 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
