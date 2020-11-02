@@ -31,8 +31,8 @@ Figure 3: A Summary of the frequency of service for bus routes during the weekda
 ## 4. Demographics vs Route Characteristics:
 
 <p float="left">
-  <img src="PaperFigures/CarOwnershipVSfrequency6am.png" alt="drawing" width="470"/>
-  <img src="PaperFigures/CarOwnershipVSfrequency12pm.png" alt="drawing" width="470"/>
+  <img src="PaperFigures/CarOwnershipVSfrequency6am.png" alt="drawing" width="450"/>
+  <img src="PaperFigures/CarOwnershipVSfrequency12pm.png" alt="drawing" width="450"/>
 </p>
 
 Figure 4: Heatmap of the cars per capita. Route frequency is denoted by opaqueness of the lines. More opaque and connected lines have more buses during the 6am hour. 
