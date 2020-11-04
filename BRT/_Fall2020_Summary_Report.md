@@ -5,9 +5,9 @@ Author: Megan Tabbutt
 
 ## 1. Madison Metro Summary:
 
-![SystemMap](PaperFigures/SystemMap.png)
+![PopDenstiyRoutes](PaperFigures/PopDenstiyRoutes.png)
 
-Figure 1: A plot showing all of the bus routes in the City of Madison. A greater opaqueness dipicts overlapping routes, and greater service for that area. 
+Figure 1: Population density on a log scale for the city of Madison. Value is based on survey responses/sq mile. Madison Metro bus system map is shown in white overlaid. 
 
 </br>
 
