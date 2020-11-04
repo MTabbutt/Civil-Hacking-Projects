@@ -28,20 +28,15 @@ Figure 3: A Summary of the frequency of service for bus routes during the weekda
 
 </br>
 
-## 4. Demographics vs Route Characteristics:
-
-<p float="left">
-  <img src="PaperFigures/CarOwnershipVSfrequency6am.png" alt="drawing" width="450"/>
-  <img src="PaperFigures/CarOwnershipVSfrequency12pm.png" alt="drawing" width="450"/>
-</p>
-
-Figure 4: Heatmap of the cars per capita. Route frequency is denoted by opaqueness of the lines. More opaque and connected lines have more buses during the 6am hour. 
-
-</br>
-
 ## 5. Demographics vs Departure time for Work:
 
 ![WeightFactorRaces](PaperFigures/WeightFactorRaces.png)
+
+How to read this graph: If there are 50 Black workers and 50 White workers, then at any given hour 50% of the people leaving should be Black if there is a fair distribution of work time (not depending on race). Then we ask who is actually leaving at 10pm. It turns out to be 75 Black people and 25 White people. So a Black person is 1.5 times more likely to leave for work at 10pm than a White person. And a White person is .5 times more likely to leave to work at 10pm than a Black person. This is the factor that is plotted on the y axis. Given this graph. If it is 10pm in Wisconsin, Hispanic people are 1.25 times more likely to be working than what would be fair or unbiased, and Blacks are 1.75 times more likely. 
+
+Routes to look at more closely based on the plot above. 7am is the peak for most commuters. Also more likely to be White than Black or Hispanic. 10pm is the most disproportionately Black workers. 2am is the most disproportionately Hispanic workers. 2pm is the second peak on the distribution of workers, also disproportionately higher for Black and Hispanic, and also maybe the easiest for Metro to fix and add more “off-peak” service during the day. 
+
+![CarOwnershipVSfrequency2am](PaperFigures/CarOwnershipVSfrequency2am.png)
 
 </br>
 </br>
