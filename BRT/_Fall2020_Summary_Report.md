@@ -38,6 +38,12 @@ Figure 3: A Summary of the frequency of service for bus routes during the weekda
 Figure 4: Heatmap of the cars per capita. Route frequency is denoted by opaqueness of the lines. More opaque and connected lines have more buses during the 6am hour. 
 
 </br>
+
+## 5. Demographics vs Departure time for Work:
+
+![WeightFactorRaces](PaperFigures/WeightFactorRaces.png)
+
+</br>
 </br>
 </br>
 ***
