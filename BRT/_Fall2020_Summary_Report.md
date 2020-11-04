@@ -36,7 +36,12 @@ How to read this graph: If there are 50 Black workers and 50 White workers, then
 
 Routes to look at more closely based on the plot above. 7am is the peak for most commuters. Also more likely to be White than Black or Hispanic. 10pm is the most disproportionately Black workers. 2am is the most disproportionately Hispanic workers. 2pm is the second peak on the distribution of workers, also disproportionately higher for Black and Hispanic, and also maybe the easiest for Metro to fix and add more “off-peak” service during the day. 
 
-![CarOwnershipVSfrequency2am](PaperFigures/CarOwnershipVSfrequency2am.png)
+<p float="left">
+  <img src="PaperFigures/CarOwnershipVSfrequency2am.png" alt="drawing" width="450"/>
+  <img src="PaperFigures/CarOwnershipVSfrequency7am.png" alt="drawing" width="450"/>
+  <img src="PaperFigures/CarOwnershipVSfrequency2pm.png" alt="drawing" width="450"/>
+  <img src="PaperFigures/CarOwnershipVSfrequency10pm.png" alt="drawing" width="450"/>
+</p>
 
 </br>
 </br>
