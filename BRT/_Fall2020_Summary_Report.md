@@ -11,6 +11,33 @@ Figure 1: Population density on a log scale for the city of Madison. Value is ba
 
 </br>
 
+
+## 2. Route Comparison:
+
+Overall Averages of Statistics not Including Route 80:
+
+_Ridership: 1.36%     Speed: 16.19 MPH     Farthest Distance: 8.06 Miles     Spacing: 0.26 Miles     Std Dev. of Spacing: 0.22 Miles_
+
+![PopDenstiyRoutes](PaperFigures/Route_27.png)
+Route 27 is an of a route that needs to be re-balanced: too close on part of the route, several stops are .1miles or less apart. 
+
+</br>
+
+![PopDenstiyRoutes](PaperFigures/Route_23.png)
+Route 23 is an example of a very specialized route. It was created to take people from the capitol (and a couple places on E Washington Ave) to American Family Center (employment center).
+
+</br>
+
+![PopDenstiyRoutes](PaperFigures/Route_67.png)
+Route 67 is an example of a well balanced route. 
+
+</br>
+
+![PopDenstiyRoutes](PaperFigures/Route_31.png)
+Route 31 is an example of a limited stop zone route. It goes far, fast and has good spacing. 
+
+</br>
+
 ## 2. Route Stop Spacing Summary:
 
 ![Quartiles_allTrips_Weekdays](PaperFigures/Quartiles_allTrips_Weekdays.png)
@@ -19,6 +46,15 @@ Figure 1: Population density on a log scale for the city of Madison. Value is ba
 Figure 2: Distribution of stop spacing by route. Three quartiles are shown: top 25%, middle 50%, bottom 25%. The overall system average is also show. Routes with a very high top 25% stop spacing most likely have a limited stop zone on the route. These limited stop zones increase route speed by having a section that does not stop at all, and typically cover larger distances across the city. 
 
 </br>
+
+## 3. Route Frequency:
+
+![FrequencyHeatMap](PaperFigures/FrequencyHeatMap.png)
+
+Figure 3: A Summary of the frequency of service for bus routes during the weekday. Since the specific time a bus comes depends on the stop, the middle stop of each route is chosen for this figure. 
+
+</br>
+
 
 ## 3. Route Frequency:
 
