@@ -16,7 +16,7 @@ Figure 1: Population density on a log scale for the city of Madison. Value is ba
 
 Overall Averages of Statistics not Including Route 80:
 
-_Ridership: 1.36%     Speed: 16.19 MPH     Farthest Distance: 8.06 Miles     Spacing: 0.26 Miles     Std Dev. of Spacing: 0.22 Miles_
+_Ridership: 1.36%     Speed: 16.19 MPH     Trip Distance: 8.06 Miles     Spacing: 0.26 Miles     Std Dev. Spacing: 0.22 Miles_
 
 ![PopDenstiyRoutes](PaperFigures/Route_27.png)
 Route 27 is an of a route that needs to be re-balanced: too close on part of the route, several stops are .1miles or less apart. 
@@ -38,7 +38,7 @@ Route 31 is an example of a limited stop zone route. It goes far, fast and has g
 
 </br>
 
-## 2. Route Stop Spacing Summary:
+## 3. Route Stop Spacing Summary:
 
 ![Quartiles_allTrips_Weekdays](PaperFigures/Quartiles_allTrips_Weekdays.png)
 ![Quartiles_allTrips_Weekdays_zoom](PaperFigures/Quartiles_allTrips_Weekdays_zoom.png)
@@ -47,7 +47,7 @@ Figure 2: Distribution of stop spacing by route. Three quartiles are shown: top 
 
 </br>
 
-## 3. Route Frequency:
+## 4. Route Frequency:
 
 ![FrequencyHeatMap](PaperFigures/FrequencyHeatMap.png)
 
@@ -56,13 +56,17 @@ Figure 3: A Summary of the frequency of service for bus routes during the weekda
 </br>
 
 
-## 3. Route Frequency:
 
-![FrequencyHeatMap](PaperFigures/FrequencyHeatMap.png)
+## 5. Demographics for Black and Hispanic Populations:
 
-Figure 3: A Summary of the frequency of service for bus routes during the weekday. Since the specific time a bus comes depends on the stop, the middle stop of each route is chosen for this figure. 
+<p float="left">
+  <img src="PaperFigures/BlackDensity.png" alt="drawing" width="450"/>
+  <img src="PaperFigures/HispDensity.png" alt="drawing" width="450"/>
+</p>
+
 
 </br>
+
 
 ## 5. Demographics vs Departure time for Work:
 
