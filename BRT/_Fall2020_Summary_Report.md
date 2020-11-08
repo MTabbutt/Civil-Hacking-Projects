@@ -18,6 +18,8 @@ Overall Averages of Statistics not Including Route 80:
 
 _Ridership: 1.36%     Speed: 16.19 MPH     Trip Distance: 8.06 Mi     Spacing: 0.26 Mi     Std Dev.: 0.22 Mi_
 
+</br>
+
 ![PopDenstiyRoutes](PaperFigures/Route_27.png)
 Route 27 is an of a route that needs to be re-balanced: too close on part of the route, several stops are .1miles or less apart. 
 
@@ -102,6 +104,7 @@ Routes to look at more closely based on the plot above. 7am is the peak for most
 
 
 
+</br>
 </br>
 </br>
 ***
